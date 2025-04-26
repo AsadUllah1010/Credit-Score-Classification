@@ -36,3 +36,8 @@ A person with a good credit score will get loans from any bank and financial ins
 27. Monthly_Balance: The monthly balance left in the account of the person
 28. Credit_Score: The credit score of the person
 # Usage
+Jupyter Notebook
+# Conclusion
+Classifying customers based on their credit scores helps banks and credit card companies immediately to issue loans to customers with good creditworthiness. A person with a good credit score will get loans from any bank and financial institution. 
+# Contributing
+If you are interested in contributing to the project, please create a fork of the repository and submit a pull request. All contributions are welcome and appreciated.
